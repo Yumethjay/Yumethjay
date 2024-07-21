@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m @Yumethjay
-## 👀 I’m interested in web dev.,aviation and automobile
-## 🌱 I’m currently learning Web development and aviation industry,
+### 👀 I’m interested in web dev.,aviation and automobile
+### 🌱 I’m currently learning Web development and aviation industry,
   -**Web Development**: Mastering the fundamentals of HTML, CSS, and JavaScript. Exploring frontend frameworks like React and diving into backend technologies like Node.js.
   - **Projects**: Library management system with react , Online reservation system for the airline industry(testing).
 ## 🚀 Skills
   - HTML, CSS, JavaScript
-  - Frontend frameworks like React
-  - Backend technologies like Node.js
+  - Frontend frameworks like bootstrap
+  - Backend PHP
 ## 💞️ I’m looking to collaborate on
   - Open-source projects
   - Web development projects
